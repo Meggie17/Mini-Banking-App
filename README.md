@@ -2,7 +2,7 @@
 I wanted to create very simple console project from basic knowledge I learnd in Java.
 
 # Content of Project
-* [General info])(#general-info)
+* [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
