@@ -34,7 +34,11 @@ public class Main {
 
         view.getContoller().addNewAccount(owner1);
         view.getContoller().addNewSavingAccount(owner1);
+        view.getContoller().addNewAccount(owner);
         view.getContoller().deposit(20000,0);
         view.getContoller().withdraw(20001,0);
+        view.getContoller().transfer(200,0,1);
+        view.getContoller().transfer(11000,0,2);
+        view.getContoller().transfer(110,0,3);
     }
 }
